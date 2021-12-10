@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/handDetectionCaseBaseReasoningFrontEnd/static/css/main.25bd4429.chunk.css",
+    "main.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/main.f1588f2b.chunk.js",
+    "main.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/main.f1588f2b.chunk.js.map",
+    "runtime-main.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/runtime-main.1d024826.js",
+    "runtime-main.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/runtime-main.1d024826.js.map",
+    "static/js/2.8224b7d4.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/2.8224b7d4.chunk.js",
+    "static/js/2.8224b7d4.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/2.8224b7d4.chunk.js.map",
+    "static/js/3.9bc8c12b.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/3.9bc8c12b.chunk.js",
+    "static/js/3.9bc8c12b.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/3.9bc8c12b.chunk.js.map",
+    "static/css/4.98c12094.chunk.css": "/handDetectionCaseBaseReasoningFrontEnd/static/css/4.98c12094.chunk.css",
+    "static/js/4.4c9ceee0.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/4.4c9ceee0.chunk.js",
+    "static/js/4.4c9ceee0.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/4.4c9ceee0.chunk.js.map",
+    "static/css/5.e9e6ce3b.chunk.css": "/handDetectionCaseBaseReasoningFrontEnd/static/css/5.e9e6ce3b.chunk.css",
+    "static/js/5.d5c1bb68.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/5.d5c1bb68.chunk.js",
+    "static/js/5.d5c1bb68.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/5.d5c1bb68.chunk.js.map",
+    "static/js/6.128a65a7.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/6.128a65a7.chunk.js",
+    "static/js/6.128a65a7.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/6.128a65a7.chunk.js.map",
+    "static/js/7.e616a197.chunk.js": "/handDetectionCaseBaseReasoningFrontEnd/static/js/7.e616a197.chunk.js",
+    "static/js/7.e616a197.chunk.js.map": "/handDetectionCaseBaseReasoningFrontEnd/static/js/7.e616a197.chunk.js.map",
+    "index.html": "/handDetectionCaseBaseReasoningFrontEnd/index.html",
+    "static/css/4.98c12094.chunk.css.map": "/handDetectionCaseBaseReasoningFrontEnd/static/css/4.98c12094.chunk.css.map",
+    "static/css/5.e9e6ce3b.chunk.css.map": "/handDetectionCaseBaseReasoningFrontEnd/static/css/5.e9e6ce3b.chunk.css.map",
+    "static/css/main.25bd4429.chunk.css.map": "/handDetectionCaseBaseReasoningFrontEnd/static/css/main.25bd4429.chunk.css.map",
+    "static/js/2.8224b7d4.chunk.js.LICENSE.txt": "/handDetectionCaseBaseReasoningFrontEnd/static/js/2.8224b7d4.chunk.js.LICENSE.txt",
+    "static/media/Arrow.301a9143.svg": "/handDetectionCaseBaseReasoningFrontEnd/static/media/Arrow.301a9143.svg",
+    "static/media/Case.2a55516f.svg": "/handDetectionCaseBaseReasoningFrontEnd/static/media/Case.2a55516f.svg",
+    "static/media/Close.a6829613.svg": "/handDetectionCaseBaseReasoningFrontEnd/static/media/Close.a6829613.svg",
+    "static/media/Hand.9238d900.svg": "/handDetectionCaseBaseReasoningFrontEnd/static/media/Hand.9238d900.svg",
+    "static/media/Magnifying.10a5de0a.svg": "/handDetectionCaseBaseReasoningFrontEnd/static/media/Magnifying.10a5de0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d024826.js",
+    "static/js/2.8224b7d4.chunk.js",
+    "static/css/main.25bd4429.chunk.css",
+    "static/js/main.f1588f2b.chunk.js"
+  ]
+}
