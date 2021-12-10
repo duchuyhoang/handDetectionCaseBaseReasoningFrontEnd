@@ -1,0 +1,63 @@
+.paginationContainer {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    padding: 8px 15px;
+    margin: 5px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    position: relative;
+    background: #fff;
+    cursor: pointer;
+}
+.activePage{
+    background:#11101D;
+    color:#fff;
+}
+
+.paginationElipsis {}
+
+.paginationToolTip {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    transition: all 0.3s;
+    padding: 10px;
+    transform: translateX(-50%) translateY(-200%);
+    visibility: hidden;
+    align-items: center;
+    width: 300px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.paginationToolTipActive {
+    transform: translateX(-50%) translateY(-100%);
+    visibility: visible;
+}
+
+.paginationSearchBox {
+    padding: 10px 5px;
+    width: 130px;
+    height: 30px;
+    outline: none;
+    border: none;
+    background: rgb(206, 202, 202);
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.goPagnationButton{
+    padding:5px 10px;
+    background-color:rgb(32, 32, 245);
+    border-radius:3px;
+    outline: none !important;;
+    color:#fff;
+    border: none;
+    margin-left: 10px;
+}
